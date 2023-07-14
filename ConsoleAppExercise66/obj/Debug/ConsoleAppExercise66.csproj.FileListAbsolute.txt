@@ -1,0 +1,8 @@
+C:\exer 6\ConsoleAppExercise66\bin\Debug\ConsoleAppExercise66.exe.config
+C:\exer 6\ConsoleAppExercise66\bin\Debug\ConsoleAppExercise66.exe
+C:\exer 6\ConsoleAppExercise66\bin\Debug\ConsoleAppExercise66.pdb
+C:\exer 6\ConsoleAppExercise66\obj\Debug\ConsoleAppExercise66.csproj.AssemblyReference.cache
+C:\exer 6\ConsoleAppExercise66\obj\Debug\ConsoleAppExercise66.csproj.SuggestedBindingRedirects.cache
+C:\exer 6\ConsoleAppExercise66\obj\Debug\ConsoleAppExercise66.csproj.CoreCompileInputs.cache
+C:\exer 6\ConsoleAppExercise66\obj\Debug\ConsoleAppExercise66.exe
+C:\exer 6\ConsoleAppExercise66\obj\Debug\ConsoleAppExercise66.pdb
